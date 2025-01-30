@@ -1,0 +1,20 @@
+take a array of empolyee object where each object contains
+properties:
+id
+name
+campany
+emp salary
+address where emp address further having two more properties of objects such as emp city
+
+
+print these properties in the form of a table on the ui by using javascrpit 
+
+
+
+
+
+create a singup form that contains 
+username (!empty), email@,(!empty) password (sould be 6)and
+confirm password(same as passwordvalue)
+once you click on submit botton a alert should be popped up on screen "form is submitted successfully"
+if and only if all the validations are correct
